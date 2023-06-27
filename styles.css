@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Caprasimo&display=swap');
+
+body {
+  font-family: 'Caprasimo', cursive;
+  color:black;
+  background-color:coral;
+}
+
+button {
+  text-align: left;
+  background-color: black;
+  color: white;
+  border-color: white;
+  border-radius: 14px;
+}
