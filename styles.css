@@ -13,3 +13,9 @@ button {
   border-color: white;
   border-radius: 14px;
 }
+
+img {
+object-fit:scale-down;
+            width:200px;
+            height:300px;
+}
