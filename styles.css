@@ -14,8 +14,3 @@ button {
   border-radius: 14px;
 }
 
-img {
-object-fit:scale-down;
-            width:500px;
-            height:500px;
-}
